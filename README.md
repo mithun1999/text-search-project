@@ -1,10 +1,10 @@
 # Text Search Project
 
 ## Tech Stack (Typescript)
-Client - React
-Server - NestJS
-DB - MongoDB
-Cache Server - Redis
+- Client - React
+- Server - NestJS
+- DB - MongoDB
+- Cache - Redis
 
 ## Installation
 
