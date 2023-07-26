@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = git@github.com:mithun1999/text-search.git
+[submodule "client"]
+	path = client
+	url = git@github.com:mithun1999/text-search-fe.git
